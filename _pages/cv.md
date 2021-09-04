@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Technical skills
-======
+## Technical skills
+
 * Languages: Python (proficient), familiar with Julia and C++
 * Scientific Python / PyData: NumPy, SciPy, scikit-learn, pandas, matplotlib
 * Geospatial libraries : xarray, cartopy, rasterio, GDAL, geopandas
@@ -20,8 +20,8 @@ Technical skills
 * Deep Learning frameworks: Tensorflow (proficient), familiar with Pytorch
 * Use of Jupyter notebooks and Anaconda ecosystem
 
-Research experience
-======
+## Research experience
+
 * Graduate researcher : University of Toronto, Toronto, Canada
   * September 2021 - Present (remote)
   * Research Group: Atmospheric Modelling and Composition
@@ -34,7 +34,7 @@ Research experience
   * Supervisors: Tracy Moffat-Griffin and Andrew Kavanagh
   * Project : Exploring the effects of energetic particle precipitation on middle atmospheric dynamics
 
-Education
-======
+## Education
+
 * Atmospheric Physics PhD Candidate, University of Toronto, Canada (2020-Present)
 * Masters of Physics (MPhys), University of Southampton, UK (2015-2019)
