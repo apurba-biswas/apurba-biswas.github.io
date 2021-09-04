@@ -26,7 +26,7 @@ Research experience
   * September 2021 - Present (remote)
   * Research Group: Atmospheric Modelling and Composition
   * Supervisor: Professor Dylan Jones
-  * Project: Using a hybrid deep learning model to predict summertime tropospheric ozone concentration over the United States
+  * Project: Predicting summertime tropospheric ozone over US using a hybrid deep learning model
 
 * Research Intern : British Antarctic Survey (BAS), Cambridge, UK
   * Summer 2018  
