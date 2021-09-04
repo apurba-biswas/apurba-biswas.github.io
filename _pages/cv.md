@@ -16,19 +16,19 @@ Technical skills
 
 Research experience
 ======
-* Graduate researcher : University of Toronto, Canada
+* Graduate researcher : University of Toronto, Toronto, Canada
   * September 2021 - Present (remote)
   * Research Group: Atmospheric Modelling and Composition
   * Supervisor: Professor Dylan Jones
   * Project: Using a hybrid deep learning model to predict summertime tropospheric ozone concentration over the United States
 
-* Research Intern : British Antarctic Survey (BAS), Cambridge UK
+* Research Intern : British Antarctic Survey (BAS), Cambridge, UK
   * Summer 2018  
-  * Group : Atmospheric Dynamics and Space Weather
+  * Research Group : Atmospheric Dynamics and Space Weather
   * Supervisors: Tracy Moffat-Griffin and Andrew Kavanagh
   * Project : Exploring the effects of energetic particle precipitation on middle atmospheric dynamics
 
 Education
 ======
-* PhD Canditdate, University of Toronto, Canada, (2020-Present)
-* Masters of Physics (MPhys), University of Southampton, UK, (2015-2019)
+* Atmospheric Physics PhD Candidate, University of Toronto, Canada (2020-Present)
+* Masters of Physics (MPhys), University of Southampton, UK (2015-2019)
