@@ -11,8 +11,14 @@ redirect_from:
 
 Technical skills
 ======
-* Scientific Python
-* Climate Analysis
+* Languages: Python (proficient), familiar with Julia and C++
+* Scientific Python / PyData: NumPy, SciPy, scikit-learn, pandas, matplotlib
+* Geospatial libraries : xarray, cartopy, rasterio, GDAL, geopandas
+* Scientific Computing : Dask, bash scripting, job scheduling (SLURM), netCDF, HDF, nco & cdo operators
+* Python package management with pip and conda, familiar with Docker containers
+* Version control with Git and Github
+* Deep Learning frameworks: Tensorflow (proficient), familiar with Pytorch
+* Use of Jupyter notebooks and Anaconda ecosystem
 
 Research experience
 ======
