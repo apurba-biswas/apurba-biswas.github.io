@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "DLO3"
+excerpt: "Predicting summertime ozone using a hybrid deep learning model<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
