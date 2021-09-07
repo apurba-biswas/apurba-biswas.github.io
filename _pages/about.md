@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! 👋
 
-Welcome to my home on the internet - I'm using this site as a mini-portfolio showcasing some of the work I've completed throughout my graduate and undergraduate studies, and internships inbetween.
+Welcome to my home on the internet - I'm using this site as a portfolio showcasing some of the work I've completed throughout my graduate and undergraduate studies, and internships inbetween.
 
 🚧 Please note this site is currently under semi-active construction 🚧
 
