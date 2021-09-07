@@ -9,13 +9,14 @@ This project was undertaken Summer 2021. I was being guided by Professor Dylan J
 
 ### Research
 
-Following the work of Tai-long [1], I further investigated a deep learning model used to predict summertime ozone concentration over the US. We were interested in what gave the model it's temporal skill, and why it was able to capture the dynamics well. One way of approaching this problem was through was through looking at feature importance (explicitly) and then conducting a regional analysis.
+Following the work of Tai-long [1], I further investigated the deep learning model used to predict summertime ozone concentration over the US. We were interested in what gave the model it's temporal skill, and why it was able to capture the dynamics well. One way of approaching this problem was through was through explicitly looking at feature importance, by excluding certain meteorological features and then conducting a regional analysis.
 
-At the end of summer, I gave a semi-informal 40-minute presentation to the group. [You can find the slides here](../files/group_presentation.pdf)
+At the beginning of summer, I spent time reproducing all the results in the archival paper by independently conducting my own model runs and analysis. By  the end, I gave a semi-formal 40-minute presentation to the group. [You can find the slides here](../files/group_presentation.pdf)
 
-An even more informal blog-style explanation lies below, which I hope is accessible to everyone.
 
-## Background - Why is ozone important?
+An even more informal blog-style explanation lies below, which I hope is more accessible and succinct than the paper. A lot of the foundational work was done by Tailong, and I've heavily drawn from his work. The analysis was guided by Professor Jones. 
+
+## Why is ozone important?
 
 Tropospheric (ground-level/near-surface) ozone, is a major air pollutant and a greenhouse gas. As an air pollutant, ozone risks those who are already have a compromised respiratory systems (e.g. asthma)and children. It's oxidative capability also impacts crop yield. As a greenhouse gas, it is much more **potent than CO2**.
 
@@ -28,10 +29,14 @@ A recent example demonstrating this complexity would be the concentration during
 
 _Atmospheric models used to simulate the distribution of ozone typically do not reproduce the observed long-term trend in tropospheric ozone. Furthermore, these models tend to overestimate summertime surface ozone abundances in the United States._ [1]
 
+### Data
+
+
+
 
 ### The model
 
-Being inspired by Shi et al, [2] Tai-long devised a Recurrent U-Net model, to capture spatial and temporal variation in ozone concentrations over the US. The hybrid model consists of stacked CNNs and LSTMs.
+Being inspired by Shi et al, [2] Tai-long devised a Recurrent U-Net model, to capture spatial and temporal variation in ozone concentrations over the US. The hybrid model consists of stacked CNNs and LSTMs, to learn spatial correlations and dynamics respectively. Use of skip-connections preserves higher-level features of the model.
 
 ![](../images/model_schematic.png)
 
