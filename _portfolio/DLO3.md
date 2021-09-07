@@ -11,7 +11,7 @@ This project was undertaken Summer 2021. I was being guided by Professor Dylan J
 
 Following the work of Tai-long [1], I further investigated the deep learning model used to predict summertime ozone concentration over the US. We were interested in what gave the model it's temporal skill, and why it was able to capture the dynamics well. One way of approaching this problem was through was through explicitly looking at feature importance, by excluding certain meteorological features and then conducting a regional analysis.
 
-At the beginning of summer, I spent time reproducing all the results in the archival paper by independently conducting my own model runs and analysis. By  the end, I gave a semi-formal 40-minute presentation to the group. [You can find the slides here](../files/group_presentation.pdf)
+At the beginning of summer, I spent time reproducing all the results in the archival paper by independently conducting my own model runs and analysis. By  the end, I gave a semi-formal 40-minute presentation to the group. [You can find the slides here](../../files/group_presentation.pdf)
 
 
 An even more informal blog-style explanation lies below, which I hope is more accessible and succinct than the paper. A lot of the foundational work was done by Tailong, and I've heavily drawn from his work. The analysis was guided by Professor Jones. 
