@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there!
+Hi there! 👋
 
 Welcome to my home on the internet - I'm using this site as a mini-portfolio showcasing some of the work I've completed throughout my graduate and undergraduate studies, and internships inbetween.
 
