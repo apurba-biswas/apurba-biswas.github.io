@@ -1,6 +1,6 @@
 ---
 title: "DLO3"
-excerpt: "Predicting summertime ozone using a deep learning model<br/><img src='/images/500x300.png'>"
+excerpt: "Predicting summertime ozone using a deep learning model<br/><img src='/images/tailong_grl_result.png'>"
 collection: portfolio
 ---
 
