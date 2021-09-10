@@ -4,17 +4,15 @@ excerpt: "Predicting summertime ozone using a deep learning model<br/><img src='
 collection: portfolio
 ---
 
-This project was undertaken Summer 2021. I was being guided by Professor Dylan Jones and senior PhD student Tai-Long He, both at the University of Toronto. I was working remotely with the 5 hour time difference (due to COVID). I was  able to attend the weekly group meetings on Thursdays 7pm with a cup of tea. I learnt about the group members' research, falling broadly under Atmospheric Modelling and Composition.
-
+This project was undertaken Summer 2021. I was being guided by Professor Dylan Jones and senior PhD student Tai-Long He, both at the University of Toronto. I was working remotely with the 5 hour time difference (due to COVID). I was  able to attend the weekly group meetings on Thursdays 7pm with a cup of tea. I learnt about the group members' research, falling broadly under Atmospheric Modelling and Composition. As for my own research, a lot of the foundational work was completed by Tai-long He, and I've heavily drawn from his work. The statistical analysis was guided by Professor Jones. It is with their help I've been able to complete this work. 
 
 ### Research
 
-Following the work of Tai-long [1], I further investigated the deep learning model used to predict summertime ozone concentration over the US. We were interested in what gave the model it's temporal skill, and why it was able to capture the dynamics well. One way of approaching this problem was through was through explicitly looking at feature importance, by excluding certain meteorological features and then conducting a regional analysis.
+Following Tai-long [1], I further investigated the deep learning model used to predict summertime ozone concentrations over the US. We were interested in what gave the model it's temporal skill, and why it was able to capture the dynamics well. One way of approaching this problem was through explicitly looking at feature importance, by excluding certain meteorological features and then conducting a regional analysis. We hoped to gain some insight of what dynamics the model was learning. the My analysis shows after feature exclusion, there were some differences in predictive skill and that these mainly dependent on region. The results were in agreement with Tai-long's findings, and emphasised the importance of including NOx emission sectors.
 
-At the beginning of summer, I spent time reproducing all the results in the archival paper by independently conducting my own model runs and analysis. With little previous experience, this gave me an oppurtunity to learn Deep Learning and Tensorflow.  By  the end, I gave a semi-formal 40-minute presentation to the group. [You can find the slides here](https://github.com/apurba-biswas/apurba-biswas.github.io/blob/master/files/group_presentation.pdf)
+At the beginning of summer, I spent time reproducing most of the results in the archival paper (including appendices) by independently conducting my own model runs and analysis. With little previous experience, this gave me an oppurtunity to learn Deep Learning in Tensorflow and climate analysis with Xarray.  By  the end, I gave a semi-formal 40-minute presentation to the group. [You can find the slides here](https://github.com/apurba-biswas/apurba-biswas.github.io/blob/master/files/group_presentation.pdf)
 
-
-An even more informal blog-style explanation lies below, which I hope is more accessible and succinct. A lot of the foundational work was done by Tailong, and I've heavily drawn from his work. The analysis was guided by Professor Jones. 
+An even more informal explanation lies below, which I hope is more accessible, succint and somewhat complete. Feel free to send me comments/questions/feedback on the work below.
 
 ## Why is ozone important?
 
@@ -41,10 +39,14 @@ Being inspired by Shi et al, [2] Tai-long devised a Recurrent U-Net model, to ca
 ![](../images/model_schematic.png)
 
 
+#### Results
 
-### Regional analysis
 
-My results
+
+### Meteorological feature exclusion and regional analysis
+
+
+
 
 ### Future work
 
