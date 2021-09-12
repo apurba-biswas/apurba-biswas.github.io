@@ -13,7 +13,7 @@ Welcome to my home on the internet - I'm using this site as a portfolio showcasi
 
 🚧 Please note this site is currently under semi-active construction
 
-I'm currently a physics graduate at the University of Toronto, studying Atmospheric Physics and Machine learning things. I hold a Masters in Physics, and have spent most of my time in education or research internships. I've been lucky to learn at these institutions, and hope more good fortune comes my way!
+I'm currently a physics graduate student at the University of Toronto, studying Atmospheric Physics and Machine learning things. I hold a Masters in Physics, and have spent most of my time in education or research internships. I've been lucky to learn at these institutions, and hope more good fortune comes my way!
 
 Have a look at my :
 - CV
