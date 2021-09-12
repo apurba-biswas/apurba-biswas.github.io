@@ -20,4 +20,4 @@ Have a look at my :
 - Portfolio: graduate research and research internship
 - Coursework : Theoretical and Computational Physics
 
-Feel free to reach me by Github/e-mail by apu.biswas_at_mail.utoronto.ca
+Feel free to reach me by Github/e-mail by apu.biswas$at$mail.utoronto.ca
