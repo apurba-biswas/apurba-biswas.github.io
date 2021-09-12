@@ -18,6 +18,6 @@ I'm currently a physics graduate at the University of Toronto, studying Atmosphe
 Have a look at my :
 - CV
 - Portfolio: graduate research and research internship
-- Coursework : Theoretical and Computation Physics
+- Coursework : Theoretical and Computational Physics
 
 Feel free to reach me by Github/e-mail by apu.biswas_at_mail.utoronto.ca
