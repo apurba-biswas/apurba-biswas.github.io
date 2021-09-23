@@ -26,7 +26,7 @@ This was a short final project as part of my graduate fluid dynamics course PHY1
 
 ## Climate Change Modelling : Air pollution and COVID-19 mortality
 
-This was part of a final project. This was again, to be presented to fellow graduate students with the intent of receiving feedback on the studies. The final was writing a memo from these findings. I was initially interested in tropospheric ozone but with COVID in full swing, I switched gears
+This was part of a final project. This was again, to be presented to fellow graduate students with the intent of receiving feedback on the studies. The final was writing a memo from these findings. 
 
 [YouTube](https://youtu.be/X359IefOnUU) (~ 8 mins presentation)
 
