@@ -11,6 +11,8 @@ redirect_from:
 
 {% include base_path %}
 
+A short & condensed CV lies below. Please contact me for the full version
+
 ## Technical skills
 
 * Languages: Python (proficient), familiar with Julia and C++
