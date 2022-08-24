@@ -9,15 +9,18 @@ redirect_from:
 
 Hi there! 👋
 
-Welcome to my home on the internet - I'm using this site as a portfolio showcasing some of the work I've completed throughout my graduate and undergraduate studies, and internships in-between.
+This site serves as a portfolio showcasing some of the work I've completed throughout my career, graduate and undergraduate studies, and internships in-between.
 
 🚧  Please note this site is currently under semi-active construction
 
-I'm currently a physics graduate student at the University of Toronto, studying Atmospheric Physics and Machine learning things. I hold a Masters in Physics, and have spent most of my time in education or research internships. I've been lucky to learn at these institutions, and hope more good fortune comes my way!
+I'm currently a geospatial and carbon markets analyst at Trove Research
 
-Have a look at my :
+Previously, I have spent 5 good years in academia, in university or research internships in-between. I hold a Masters in Physics, after which I spent a year as a graduate researcher and PhD Candidate studying Atmospheric Physics and Machine Learning. I've been lucky to learn at these institutions, and hope more good fortune comes my way!
+
+Please have a look at my :
 - CV
+- Career & Work experience
 - Portfolio: graduate & internship research
-- Some graduate and undergraduate coursework : Theoretical and Computational Physics
+- Coursework : some graduate and undergraduate coursework in Theoretical and Computational Physics
 
-Feel free to reach me by Github/e-mail by apu.biswas-at-mail.utoronto.ca
+Feel free to reach me via LinkedIn. I do not have any other social media presence. 
