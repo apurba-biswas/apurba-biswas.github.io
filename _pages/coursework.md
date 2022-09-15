@@ -11,6 +11,14 @@ author_profile: true
 
 This includes some of the coursework completed during my Atmospheric Physics PhD candidacy at Toronto (2021).
 
+Here are some of the courses I completed/audited:
+- [MATH1510 Deep Learning](https://sites.google.com/view/mat1510)
+- [PHY1498 Atmospheric Physics](https://www.physics.utoronto.ca/graduate/graduate-courses/introduction-to-atmospheric-physics/)
+- [EES1133 Climate Change and Modelling](https://kls2177.github.io/)
+- [EES1132 Climate Data Analysis](https://kls2177.github.io/Climate-and-Geophysical-Data-Analysis/chapters/index.html)
+- [PHY1530 Fluid Mechanics](https://www.physics.utoronto.ca/graduate/graduate-courses/fluid-mechanics/)
+- [PHY1610 Scientific Computing](https://support.scinet.utoronto.ca/education/go.php/468/index.php/ib/1//p_course/468)
+
 See [this repo](https://github.com/apurba-biswas/undergrad) for my masters thesis, some computational physics report and other small courseworks.
 
 ## Fluid Dynamics : Lattice Boltzmann Method

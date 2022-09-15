@@ -11,23 +11,26 @@ redirect_from:
 
 {% include base_path %}
 
-A short & condensed CV lies below. Please contact me for the full version
+A short & condensed CV lies below. Please contact me for a pdf of the full version.
+
+Otherwise, the rest of the website serves as a thorough library of my work.
 
 ## Technical skills
 
-* Languages: Python (proficient), familiar with Julia and C++
+* Languages: Python (proficient), SQL, familiar with Julia and C++
 * Scientific Python / PyData: NumPy, SciPy, scikit-learn, pandas, matplotlib
-* Geospatial libraries : xarray, cartopy, rasterio, GDAL, geopandas
-* Scientific Computing : Dask, bash scripting, job scheduling (SLURM), netCDF, HDF, nco & cdo operators
-* Python package management with pip and conda, familiar with Docker containers
-* Version control with Git and Github
-* Deep Learning frameworks: Tensorflow (proficient), familiar with Pytorch
+* Geospatial libraries : xarray, rasterio, cartopy, rasterio, GDAL, geopandas, fiona, shapely
+* Scientific Computing : dask, bash scripting, job scheduling (SLURM), netCDF, HDF, nco & cdo operators
+* Cloud Computing : AWS (aws cli v2, S3, EC2, ECR, Fargate, Sagemaker), Azure (blob storage)
+* Python package management with pip and conda (miniconda/micromamba), familiar with Docker containers
+* Version control with git and Github
+* Deep Learning frameworks: Tensorflow (proficient with keras API and some tf2 components)
 * Use of Jupyter notebooks and Anaconda ecosystem
 
 ## Research experience
 
 * Graduate researcher : University of Toronto, Toronto, Canada
-  * September 2021 - Present (remote)
+  * September 2020 - 2021 (remote)
   * Research Group: Atmospheric Modelling and Composition
   * Supervisor: Professor Dylan Jones
   * Project: Predicting summertime tropospheric ozone over US using a hybrid deep learning model
@@ -40,5 +43,5 @@ A short & condensed CV lies below. Please contact me for the full version
 
 ## Education
 
-* Atmospheric Physics PhD Candidate, University of Toronto, Canada (2020-Present)
+* Atmospheric Physics PhD Candidate, University of Toronto, Canada (2020-2021)
 * Masters of Physics (MPhys), University of Southampton, UK (2015-2019)
