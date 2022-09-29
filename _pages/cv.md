@@ -29,7 +29,7 @@ Learning : PostGIS, Workflow orchestration (CI/CD, Github actions), Dash-Leaflet
 ## Work experience
 
 * Geospatial Analyst : Trove Research, London, UK
-  * Project: Modelling the global supply of carbon credits 
+  * Main project: Modelling the global supply of carbon credits 
   * October 2021 - Present
   
 ## Research experience
