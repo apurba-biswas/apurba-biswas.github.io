@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-# Trove Research 
+## Trove Research 
 
 Trove Research advocates for the use of the Carbon Market (CM). We provide data and analysis through our subscription intelligence platform, Trove Intelligence. We deal in simplyfying and aggregating numerous data sources, which requires heavy data manipulation, both manual and scripted. Initially brought in as an analyst, I quickly adopted more responsibilities as I had more to offer to the team. Apart from helping various team members, my major projects include:
 
