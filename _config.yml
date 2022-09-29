@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Apurba Biswas"
 title_separator          : "-"
 name                     : &name "Apurba Biswas"
-description              : &description "Atmospheric Physics + ML graduate student"
+description              : &description "Geospatial Analyst"
 url                      : https://apurba-biswas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "apurba-biswas.github.io"
@@ -60,7 +60,7 @@ analytics:
 author:
   name             : "Apurba Biswas"
   avatar           : "profile.png"
-  bio              : "Atmospheric Physics + ML, PhD Candidate @ UofT"
+  bio              : "Geospatial Analyst @ Trove Research"
   location         : "London, UK"
   employer         :
   email            :
