@@ -13,18 +13,15 @@ A short & condensed CV lies below. Please contact me for the full version.
 
 ## Technical skills
 
-* Languages: Python (proficient), R, SQL, familiar with Julia and C++
-* Scientific Python / PyData: NumPy, SciPy, scikit-learn, pandas, matplotlib
-* Geospatial libraries : xarray, rasterio, cartopy, rasterio, GDAL, geopandas, fiona, shapely
-* Cloud Computing : AWS (aws cli v2, S3, EC2, ECR, Fargate, Sagemaker), Azure (blob storage), Coiled
-* Scientific Computing : dask, bash scripting, job scheduling (SLURM), netCDF, HDF5, Zarr, nco & cdo operators
+* Programming languages: Proficient with Python and R. Familiar with SQL, Julia, Javascript and C++
+* Scientific python: numpy, scipy, scikit-learn, tensorflow2, numba, pandas, matplotlib, pip, miniconda, mamba
+* Geospatial: python (xarray, rasterio, cartopy, geopandas, shapely), CLI (nco, cdo, GDAL), Google Earth Engine
+* Scientific computing: dask, unix, scripting, job scheduling (SLURM), storage (netCDF, HDF5, Zarr)
+* Cloud computing: AWS (cli, S3, EC2, ECR, Sagemaker, Fargate), Coiled, Azure (blob), Microsoft Planetary Hub
+* Version control with github, containerisation with dockerhub, documentation with Sphinx and Readthedocs
+* Python Package management with pip, miniconda and micromamba
 * Deep Learning frameworks: Tensorflow (proficient with keras API and some tf2 components)
 * Front-end frameworks: building geospatial R Shiny apps (using leaflet, ggplot2)
-* Version control: git and GitHub
-* Containersation: docker and dockerhub
-* Python package management with pip and conda (miniconda/micromamba)
-
-Learning : PostGIS, Workflow orchestration (CI/CD, Github actions), Dash-Leaflet and much more
 
 ## Work experience
 
