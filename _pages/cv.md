@@ -18,7 +18,7 @@ A short & condensed CV lies below. Please contact me for the full version.
 * Geospatial : xarray, rasterio, cartopy, geopandas, shapely, gdal, nco, cdo, Google Earth Engine
 * Computing: dask, unix, scripting, job scheduling (SLURM), storage (netCDF, HDF5, Zarr)
 * Cloud : AWS (cli, S3, EC2, ECR, Sagemaker, Fargate), Azure (blob), Coiled, Microsoft Planetary Hub
-* Version control with git + github, containerisation with docker + dockerhub, documentation with Sphinx and Readthedocs
+* Version control git/hub, containerisation with docker/hub, documentation with Sphinx and Readthedocs
 * Python Package management with pip, miniconda and micromamba
 * Deep Learning frameworks: Tensorflow (proficient with keras API and some tf2 components). Familiar with PyTorch
 * Front-end frameworks: building geospatial R Shiny apps (using leaflet, ggplot2) and dash
