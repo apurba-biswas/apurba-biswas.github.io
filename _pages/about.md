@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! 👋
+Geospatial Analyst at Trove Research, analysing the Voluntary Carbon Market 
 
-I'm a Geospatial and Carbon Markets Analyst at Trove Research
+Interested in all things climate & geospatial Python 
 
-Previously a PhD Candidate at University of Toronto studying Atmospheric Physics + ML
+Previously a PhD Candidate at University of Toronto studying Atmospheric Physics and Deep Learning
 
 Hold a Masters of Physics from Southampton
 
-Interested in all things climate & geospatial Python
+
