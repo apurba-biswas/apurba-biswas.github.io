@@ -13,15 +13,15 @@ A short & condensed CV lies below. Please contact me for the full version.
 
 ## Technical skills
 
-* Programming languages: Proficient with Python and R. Familiar with SQL, Julia, Javascript and C++
-* Scientific python: numpy, scipy, scikit-learn, tensorflow2, numba, pandas, matplotlib, pip, miniconda, mamba
-* Geospatial: python (xarray, rasterio, cartopy, geopandas, shapely), CLI (nco, cdo, GDAL), Google Earth Engine
-* Scientific computing: dask, unix, scripting, job scheduling (SLURM), storage (netCDF, HDF5, Zarr)
-* Cloud computing: AWS (cli, S3, EC2, ECR, Sagemaker, Fargate), Coiled, Azure (blob), Microsoft Planetary Hub
-* Version control with github, containerisation with dockerhub, documentation with Sphinx and Readthedocs
+* Programming languages: Proficient with Python. Familiar with R, SQL (Postgres), Julia, Javascript and C++
+* SciPy : numpy, scipy, scikit-learn, numba, pandas, matplotlib, hvplot, seaborn
+* Geospatial : xarray, rasterio, cartopy, geopandas, shapely, gdal, nco, cdo, Google Earth Engine
+* Computing: dask, unix, scripting, job scheduling (SLURM), storage (netCDF, HDF5, Zarr)
+* Cloud : AWS (cli, S3, EC2, ECR, Sagemaker, Fargate), Azure (blob), Coiled, Microsoft Planetary Hub
+* Version control with git + github, containerisation with docker + dockerhub, documentation with Sphinx and Readthedocs
 * Python Package management with pip, miniconda and micromamba
-* Deep Learning frameworks: Tensorflow (proficient with keras API and some tf2 components)
-* Front-end frameworks: building geospatial R Shiny apps (using leaflet, ggplot2)
+* Deep Learning frameworks: Tensorflow (proficient with keras API and some tf2 components). Familiar with PyTorch
+* Front-end frameworks: building geospatial R Shiny apps (using leaflet, ggplot2) and dash
 
 ## Work experience
 
