@@ -13,7 +13,7 @@ A short & condensed CV lies below. Please contact me for the full version.
 
 ## Technical skills
 
-* Programming languages: Proficient with Python. Familiar with R, SQL (Postgres), Julia, Javascript and C++
+* Languages: Proficient with Python. Familiar with R, SQL (Postgres), Julia, Javascript and C++
 * SciPy : numpy, scipy, scikit-learn, numba, pandas, matplotlib, hvplot, seaborn
 * Geospatial : xarray, rasterio, cartopy, geopandas, shapely, gdal, nco, cdo, Google Earth Engine
 * Computing: dask, unix, scripting, job scheduling (SLURM), storage (netCDF, HDF5, Zarr)
