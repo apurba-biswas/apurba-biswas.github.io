@@ -7,12 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Geospatial Analyst at Trove Research, analysing the Voluntary Carbon Market 
+Currently a Climate Data Scientist at the Institute of Environmental Analytics at the University of Reading,
+looking at VRE forecasting of wind and solar
 
-Interested in all things climate & geospatial Python 
+Previously a Geospatial Analyst at Trove Research analysing the Voluntary Carbon Market,
+looking at forested REDD+ and IFM (i.e. primarily nature-based forested) carbon projects
 
-Previously a PhD Candidate at University of Toronto studying Atmospheric Physics and Deep Learning
+Interested in all things climate & geospatial Python
+Proficient in the Pangeo stack for gridded weather and climate data: Xarray, Zarr, Dask, netCDF, grib2
+and python geospatial stack: geopdandas, rasterio, COGs/GeoTIFF, shapely
 
-Hold a Masters of Physics from Southampton
+Previously a PhD Candidate at University of Toronto studying Atmospheric Physics and Deep Learning,
+using deep learning (U-Net) nowcasting summertime ozone
+
+Masters of Physics from Southampton (1st)
 
 
