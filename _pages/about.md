@@ -15,7 +15,7 @@ looking at forested REDD+ and IFM (i.e. primarily nature-based forested) carbon 
 
 Interested in all things climate & geospatial Python
 - Pangeo stack for gridded weather and climate data: Xarray, Zarr, Dask, netCDF, grib2
-- geospatial stack: geopdandas, rasterio, COGs/GeoTIFF, shapely
+- geospatial stack: geopandas, rasterio, COGs/GeoTIFF, shapely
 
 Previously a PhD Candidate at University of Toronto studying Atmospheric Physics and Deep Learning,
 using deep learning (U-Net) nowcasting summertime ozone
