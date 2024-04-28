@@ -59,7 +59,7 @@ analytics:
 # Site Author
 author:
   name             : "Apurba Biswas"
-  avatar           : "/assets/profile_pic.jpg"
+  avatar           : ![profile](/assets/profile_pic.jpg)
   bio              : "Climate Data Scientist @ IEA"
   location         : "London, UK"
   employer         :
