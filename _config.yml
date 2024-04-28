@@ -59,8 +59,8 @@ analytics:
 # Site Author
 author:
   name             : "Apurba Biswas"
-  avatar           : [profile.jpg](/assets/profile_pic.jpg)
-  bio              : "Geospatial Analyst @ Trove Research"
+  avatar           : 
+  bio              : "Climate Data Scientist @ IEA"
   location         : "London, UK"
   employer         :
   email            :
